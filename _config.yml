@@ -1,4 +1,4 @@
-name: motioncastmedia
+name: motioncastmedia.com
 favicon: null
 layout_spectrum: 0.46641210396774113
 typography_spectrum: 0.41859521018341184
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.38463462819345295
+    - '#ffffff'
+    - '#030303'
+    - '#272727'
+    - '#585858'
+    - '#b7b7b7'
+  brandStrength: 0.3125
   lightness: 0.963347140699625
   saturation: 0.002146094338968396
   rhythmicContrast: 0.781276039313525
